@@ -1,0 +1,1 @@
+In today's class we have learnt about how to crate a html . Then we learn about how to add, commit, push it on the github. And lastly we also known the branches.
